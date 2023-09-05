@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: In this year I started to learn tech ✨
 --> 
 
+## Some technologies that I use:
+
 
 
 
